@@ -1,4 +1,5 @@
-See the page here: https://aflo7.github.io/landing-page-cannatron/
+See the original page: https://cannatron.com/
+See my remake: https://aflo7.github.io/landing-page-cannatron/
 
 
 The page is responsive for mobile and desktop devices.
