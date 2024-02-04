@@ -5,6 +5,11 @@ The page is responsive for mobile and desktop devices.
 
 I used technology like React, Javascript, HTML, CSS, SCSS, Vite Bundler.
 
+
+Laptop Screenshot
+
+![alt](./laptop.png)
+
 <hr>
 
 
