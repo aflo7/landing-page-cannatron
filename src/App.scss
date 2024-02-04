@@ -82,6 +82,7 @@ main > img {
 }
 
 @media screen and (min-width: 1000px) {
+  
   .free-shipping-text {
     text-align: center;
   }
@@ -213,5 +214,8 @@ main > img {
 @media screen and (min-width: 1200px) {
   .bottom-nav {
     padding-bottom: 60px;
+  }
+  body {
+    font-size: 1.2rem;
   }
 }
