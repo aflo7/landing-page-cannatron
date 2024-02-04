@@ -56,6 +56,7 @@ main > img {
 
 .icon-wrapper > div {
   display: flex;
+  // height: 50px;
   flex-direction: column;
   align-items: center;
   justify-content: center;
@@ -68,8 +69,6 @@ main > img {
 
 @media screen and (min-width: 600px) {
   .mobile-nav {
-   
-
     .bottom-nav-icon {
       font-size: 2.2rem;
       cursor: pointer;
@@ -101,10 +100,11 @@ main > img {
       color: white;
       display: flex;
       align-items: center;
-      padding: 10px;
+      padding: 5px 10px;
       max-width: 1500px;
       margin: 0 auto;
       justify-content: space-between;
+      font-weight: bold;
     }
 
     .top-nav > div:nth-child(2) {
@@ -166,7 +166,7 @@ main > img {
 
     .middle-right-nav > div:nth-child(2) {
       display: flex;
-      gap: 40px;
+      gap: 30px;
     }
 
     .search-input {
@@ -197,6 +197,16 @@ main > img {
       background-color: rgb(14, 149, 216);
       color: white;
     }
+  }
+  main {
+    padding: 10px;
+  }
+
+  .icon-wrapper {
+    gap: 40px;
+  }
+  .icon-wrapper > div {
+    width: 120px;
   }
 }
 
