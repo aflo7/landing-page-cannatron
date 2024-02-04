@@ -5,11 +5,11 @@
     display: flex;
     gap: 40px;
     justify-content: center;
-    padding: 20px;
+    padding: 15px;
   }
 
   .bottom-nav-icon {
-    font-size: 2rem;
+    font-size: 1.5rem;
     cursor: pointer;
   }
 
@@ -47,7 +47,7 @@ main > img {
 }
 
 .icon-wrapper {
-  padding: 80px 40px;
+  padding: 80px 10px;
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
@@ -64,6 +64,17 @@ main > img {
 .free-shipping-text {
   background-color: rgb(244, 184, 64);
   padding: 20px 40px;
+}
+
+@media screen and (min-width: 600px) {
+  .mobile-nav {
+   
+
+    .bottom-nav-icon {
+      font-size: 2.2rem;
+      cursor: pointer;
+    }
+  }
 }
 @media screen and (min-width: 900px) {
   main {

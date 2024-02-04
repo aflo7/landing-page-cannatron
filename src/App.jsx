@@ -15,7 +15,7 @@ export default function App() {
       </div>
       <nav className="mobile-nav">
         <div className="top-nav">
-          <div className="top-nav-logo">Cannatron Logo</div>
+          <div className="top-nav-logo">Logo</div>
         </div>
         <div className="bottom-nav">
           <BiSearchAlt className="bottom-nav-icon" />
