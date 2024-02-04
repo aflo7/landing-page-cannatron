@@ -14,7 +14,7 @@
   }
 
   .top-nav {
-    padding: 20px;
+    padding:20px;
   }
 
   .top-nav-logo {
@@ -47,7 +47,7 @@ main > img {
 }
 
 .icon-wrapper {
-  padding: 80px 10px;
+  padding: 80px 40px;
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
@@ -56,7 +56,6 @@ main > img {
 
 .icon-wrapper > div {
   display: flex;
-  // height: 50px;
   flex-direction: column;
   align-items: center;
   justify-content: center;
@@ -64,7 +63,7 @@ main > img {
 
 .free-shipping-text {
   background-color: rgb(244, 184, 64);
-  padding: 20px 40px;
+  padding: 20px 10px;
 }
 
 @media screen and (min-width: 600px) {
